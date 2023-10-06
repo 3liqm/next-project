@@ -1,0 +1,13 @@
+.container{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(165, 156, 156) ;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
+    align-items: center; 
+}
